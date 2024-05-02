@@ -31,11 +31,11 @@ const description =
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
+  "Communication",
+  "People and resource managment",
+  " Commmunity Managmnet",
+  "Microsoft 365",
+  " Event organization, Planning and excecution",
   "Graphic design",
 ];
 
@@ -45,7 +45,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "I'm a Community Program Manager, committed to helping others grow in tech and promoting the inclusion of Tech in Education. I'm literally obsessed with design and psychology. My believe, is this, change starts from all of us,from you,from me. From your corner of the world effect changes, you can become a force for good.";
 
 const About = () => {
   return (
